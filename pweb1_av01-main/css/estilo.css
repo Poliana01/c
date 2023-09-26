@@ -1,0 +1,35 @@
+.blog-header{
+    line-height: 1;
+    border-bottom: 1px solid #262525;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Playfair Display", Georgia, 'Times New Roman', Times, serif;
+}
+.display-4 {
+    font-size: 2.5rem;
+}
+/* CSS blog posts */
+.blog-post{
+    margin-bottom: 4rem;
+}
+.blog-post-titulo{
+    margin-bottom: 25rem;
+    font-size: 2.5rem;
+}
+.blog-post-meta{
+    margin-bottom: 1.25rem;
+    color: #727272;
+}
+/*  footer */
+.blog-footer{
+    padding: .2.5rem 0;
+    color: #727272;
+    text-aling: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+
+}
+
+.blog-footer p:last-chind{
+    margin-botton: 0;
+}
